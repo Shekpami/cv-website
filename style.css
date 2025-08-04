@@ -1,0 +1,105 @@
+ .my-container {
+
+    background-color: #8D67F2;
+   
+ }
+h1{
+   text-align: center;
+    font-size: 4rem;
+    padding-top: 10%;
+ 
+}
+
+ h2 {
+    text-align: center;
+    font-size: 2rem;
+    padding: 20px;
+ }
+
+#introduction {
+    background-color: #e4f9f5;
+    height: 400px; 
+    font-family: sans-serif;  
+}
+
+.container {
+     background-color: white;
+}
+
+ .image {
+    text-align: center;
+    border-radius: 50%;
+    margin-top: 20px;
+   
+ }
+
+ .me {
+    
+    background-color: aliceblue;
+    height: auto;
+    
+ }
+ 
+
+ .heading {
+    color: #8D67F2;
+    font-size: x-large;
+    text-align: center;
+    margin: 30px;
+    font-family: serif;
+ }
+ 
+ .body {
+    color: black;
+    font-size: 1.2rem;
+    text-align: center;
+    font-family: sans-serif;
+    
+ }
+
+ .education {
+    background-color: #E8DEF7;
+    height: auto;
+    padding-top: 5px;
+ }
+
+ .list-group {
+    font-size: large;  
+ }
+
+
+.card {
+   display: flex;
+   flex-direction: row;
+   align-items: flex-start;
+   gap: 20px;
+   margin-bottom: 30px;
+   padding: 15px;
+   border-radius: 10px;
+}
+
+.hobbie-image {
+   width: 150px;
+   height: auto;
+   object-fit: cover;
+   border-radius: 8px;
+}
+
+.card-text {
+   text-align: left;
+   flex: 1;
+   font-size: 1.2rem;
+}
+
+.card-title {
+   font-size: 1.2rem;
+   font-weight: bold;
+   margin-bottom: 10px;
+}
+
+.contact {
+   height: auto;
+   background-color: #e4f9f5;
+   font-family: serif;
+}
+ 
